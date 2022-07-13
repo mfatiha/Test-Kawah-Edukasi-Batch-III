@@ -1,9 +1,9 @@
 Isilah data pribadi : 
 
-Nama : 
-Alamat Email: 
-Waktu Mulai :
-Waktu Selesai :
+Nama : Muhammad Fatih Aulia
+Alamat Email: mfatih@student.jgu.ac.id
+Waktu Mulai : 13.00
+Waktu Selesai : 15.05
 
 CARA PENGERJAAN!!!
 
